@@ -1,0 +1,17 @@
+E:\Library_Management_System\Login_Page\Login_Page\bin\Release\Login_Page.exe.config
+E:\Library_Management_System\Login_Page\Login_Page\bin\Release\Login_Page.exe
+E:\Library_Management_System\Login_Page\Login_Page\bin\Release\Login_Page.pdb
+E:\Library_Management_System\Login_Page\Login_Page\obj\Release\Login_Page.Dashboard.resources
+E:\Library_Management_System\Login_Page\Login_Page\obj\Release\Login_Page.Form1.resources
+E:\Library_Management_System\Login_Page\Login_Page\obj\Release\Login_Page.Properties.Resources.resources
+E:\Library_Management_System\Login_Page\Login_Page\obj\Release\Login_Page.csproj.GenerateResource.Cache
+E:\Library_Management_System\Login_Page\Login_Page\obj\Release\Login_Page.exe
+E:\Library_Management_System\Login_Page\Login_Page\obj\Release\Login_Page.pdb
+E:\Library_Management_System\Login_Page\Login_Page\obj\Release\Login_Page.AddBooks.resources
+E:\Library_Management_System\Login_Page\Login_Page\obj\Release\Login_Page.AddStudent.resources
+E:\Library_Management_System\Login_Page\Login_Page\obj\Release\Login_Page.CompleteBookDetails.resources
+E:\Library_Management_System\Login_Page\Login_Page\obj\Release\Login_Page.IssueBooks.resources
+E:\Library_Management_System\Login_Page\Login_Page\obj\Release\Login_Page.ReturnBook.resources
+E:\Library_Management_System\Login_Page\Login_Page\obj\Release\Login_Page.ViewBook.resources
+E:\Library_Management_System\Login_Page\Login_Page\obj\Release\Login_Page.ViewStudentInformation.resources
+E:\Library_Management_System\Login_Page\Login_Page\obj\Release\Login_Page.csprojResolveAssemblyReference.cache

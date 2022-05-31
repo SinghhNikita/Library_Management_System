@@ -1,0 +1,12 @@
+E:\Library_Management_System\Login_Page\Login_Page\bin\Debug\Library.mdf
+E:\Library_Management_System\Login_Page\Login_Page\bin\Debug\Library_log.ldf
+E:\Library_Management_System\Login_Page\Login_Page\bin\Debug\Login_Page.exe.config
+E:\Library_Management_System\Login_Page\Login_Page\bin\Debug\Login_Page.exe
+E:\Library_Management_System\Login_Page\Login_Page\bin\Debug\Login_Page.pdb
+E:\Library_Management_System\Login_Page\Login_Page\obj\Debug\Library__Management__System.csprojResolveAssemblyReference.cache
+E:\Library_Management_System\Login_Page\Login_Page\obj\Debug\Login_Page.Form1.resources
+E:\Library_Management_System\Login_Page\Login_Page\obj\Debug\Login_Page.Properties.Resources.resources
+E:\Library_Management_System\Login_Page\Login_Page\obj\Debug\Library__Management__System.csproj.GenerateResource.Cache
+E:\Library_Management_System\Login_Page\Login_Page\obj\Debug\Login_Page.exe
+E:\Library_Management_System\Login_Page\Login_Page\obj\Debug\Login_Page.pdb
+E:\Library_Management_System\Login_Page\Login_Page\obj\Debug\Login_Page.Dashboard.resources
