@@ -7,4 +7,4 @@
     [bPDate] VARCHAR(250) NOT NULL, 
     [bPrice] BIGINT NOT NULL, 
     [bQuan] BIGINT NOT NULL
-)
+);
